@@ -21,7 +21,7 @@ const data = {
   work: chalk.white('Staff Developer Advocate'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('bryanwills'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~bnw'),
-  github: chalk.gray('https://github.com/') + chalk.green('bnw'),
+  github: chalk.gray('https://github.com/') + chalk.green('bryanwills'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('bryanwills'),
   web: chalk.cyan('https://byanwills.dev'),
   npx: chalk.red('npx') + ' ' + chalk.white('bryanwills'),
